@@ -1,0 +1,12 @@
+Tarefa,Origem,Quadrante,Projeto,Status,Prazo,Estimativa (min),Pomodoros,Próxima ação
+Tickets urgentes do Zendesk (fila do dia),Zendesk,Fazer agora,Trabalho,Concluída,2026-09-30,120,0,Responder os urgentes antes das 10h
+Entregar Parte Prática do trabalho de Produtividade,Faculdade,Fazer agora,Faculdade,Em andamento,2026-09-30,120,4,Revisar README e enviar arquivos
+Resolver ticket complexo #1482 (exemplo),Zendesk,Fazer agora,Trabalho,Concluída,2026-10-01,90,3,Testar a solução e responder ao cliente
+Estudar para prova de Banco de Dados,Faculdade,Agendar,Faculdade,A fazer,2026-10-02,150,6,Resolver lista de exercícios do capítulo 3
+Revisão semanal no Notion,Pessoal,Agendar,Pessoal,A fazer,2026-10-02,30,1,Atualizar painel e pedir análise à IA
+Montar respostas-modelo para dúvidas frequentes,Zendesk,Agendar,Trabalho,Concluída,2026-10-01,60,2,Salvar os modelos no Zendesk
+Planejar próximo mês de estudos,Faculdade,Agendar,Faculdade,A fazer,2026-10-03,45,2,Listar entregas e datas das disciplinas
+Retornar mensagem do WhatsApp sobre escala,WhatsApp,Delegar,Trabalho,Concluída,2026-09-30,10,0,Responder com contexto e prazo
+Encaminhar ticket de outra área (escalonar),Zendesk,Delegar,Trabalho,A fazer,2026-10-01,15,0,Escalar com resumo do caso
+Organizar notificações do Chat e do WhatsApp,Pessoal,Eliminar,Pessoal,A fazer,2026-10-04,20,1,Desativar notificações não essenciais
+Rolar feed de notícias no intervalo,Pessoal,Eliminar,Pessoal,A fazer,,0,0,Substituir por caminhada curta
